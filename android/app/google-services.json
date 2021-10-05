@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866601426441",
+    "project_id": "fir-crash-d4bd6",
+    "storage_bucket": "fir-crash-d4bd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866601426441:android:1cdb010a63877ffde922d8",
+        "android_client_info": {
+          "package_name": "com.example.week9_fct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866601426441-834l68tuev9mv2iu6441510a3s62nvtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAEWoqursoSDyXfFs15Bo7qLbRw87st_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866601426441-834l68tuev9mv2iu6441510a3s62nvtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
